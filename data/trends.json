@@ -1,0 +1,772 @@
+{  
+  "data":[  
+    {  
+      "title":"Open Science",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Information Design",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Educational-Business",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Massive Open Online Course",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Gamification",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Predictive Analytics",
+      "megaTrends":[  
+        "Sicherheit",
+        "Wissenskultur",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Talentism",
+      "megaTrends":[  
+        "New Work",
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Open Innovation",
+      "megaTrends":[  
+        "New Work",
+        "Wissenskultur",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Collaboration",
+      "megaTrends":[  
+        "New Work",
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Sharing Economy",
+      "megaTrends":[  
+        "Neu-Ökologie",
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Female Shift",
+      "megaTrends":[  
+        "Gender Shift",
+        "New Work",
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Lifelong learning",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Tutorial Learning",
+      "megaTrends":[  
+        "Individualisierung",
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Creativiteens",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Curiosity-management",
+      "megaTrends":[  
+        "Wissenskultur"
+      ]
+    },
+    {  
+      "title":"Glocalization",
+      "megaTrends":[  
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Multipolar expansion",
+      "megaTrends":[  
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Cybercrime",
+      "megaTrends":[  
+        "Sicherheit",
+        "Globalisierung",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"On-demand business",
+      "megaTrends":[  
+        "New Work",
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Nearshoring",
+      "megaTrends":[  
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Shadow economy",
+      "megaTrends":[  
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Pop-up money",
+      "megaTrends":[  
+        "Globalisierung",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Fair Trade",
+      "megaTrends":[  
+        "Neu-Ökologie",
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Social Business",
+      "megaTrends":[  
+        "Neu-Ökologie",
+        "New Work",
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Post growth economics",
+      "megaTrends":[  
+        "Neu-Ökologie",
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Womanomics",
+      "megaTrends":[  
+        "Gender Shift",
+        "New Work",
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Rising Africa",
+      "megaTrends":[  
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"World power China",
+      "megaTrends":[  
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Migration",
+      "megaTrends":[  
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"24/7 Society",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Carsharing",
+      "megaTrends":[  
+        "Mobilität",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Autonomous Driving",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Third Places",
+      "megaTrends":[  
+        "Urbanisierung",
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Power of place",
+      "megaTrends":[  
+        "New Work",
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Wearables",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Slow traffic",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"E-mobility",
+      "megaTrends":[  
+        "Neu-Ökologie",
+        "Urbanisierung",
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Bike-Boom",
+      "megaTrends":[  
+        "Urbanisierung",
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Markets on the road",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Mobile Commerce",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Mixed Mobility",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"End-to-end tourism",
+      "megaTrends":[  
+        "Mobilität"
+      ]
+    },
+    {  
+      "title":"Population growth",
+      "megaTrends":[  
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Collaborative living",
+      "megaTrends":[  
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Urban manufacturing",
+      "megaTrends":[  
+        "New Work",
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Urban mining",
+      "megaTrends":[  
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Urban farming",
+      "megaTrends":[  
+        "Neu-Ökologie",
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Mega cities",
+      "megaTrends":[  
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Global cities",
+      "megaTrends":[  
+        "Urbanisierung",
+        "Globalisierung"
+      ]
+    },
+    {  
+      "title":"Migration into cities",
+      "megaTrends":[  
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Shrinking Cities",
+      "megaTrends":[  
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Smart Cities",
+      "megaTrends":[  
+        "Urbanisierung"
+      ]
+    },
+    {  
+      "title":"Creative economy",
+      "megaTrends":[  
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Antifragility",
+      "megaTrends":[  
+        "Sicherheit",
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Flexicurity",
+      "megaTrends":[  
+        "Sicherheit",
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Industry 4.0",
+      "megaTrends":[  
+        "Sicherheit",
+        "New Work",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Big Data",
+      "megaTrends":[  
+        "Sicherheit",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Privacy",
+      "megaTrends":[  
+        "Sicherheit",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Heedfulness",
+      "megaTrends":[  
+        "Gesundheit"
+      ]
+    },
+    {  
+      "title":"Vitality",
+      "megaTrends":[  
+        "Gesundheit"
+      ]
+    },
+    {  
+      "title":"Foodies",
+      "megaTrends":[  
+        "Gesundheit"
+      ]
+    },
+    {  
+      "title":"Healthness",
+      "megaTrends":[  
+        "Gesundheit",
+        "Silver Society"
+      ]
+    },
+    {  
+      "title":"Corporate Health",
+      "megaTrends":[  
+        "Gesundheit",
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Work-Life-Blending",
+      "megaTrends":[  
+        "Gesundheit",
+        "Gender Shift",
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Slow culture",
+      "megaTrends":[  
+        "Gesundheit",
+        "Silver Society",
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Ambient-Assisted-Living",
+      "megaTrends":[  
+        "Gesundheit",
+        "Silver Society"
+      ]
+    },
+    {  
+      "title":"E-Health",
+      "megaTrends":[  
+        "Gesundheit",
+        "Silver Society",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Live Quality",
+      "megaTrends":[  
+        "Gesundheit",
+        "Individualisierung"
+      ]
+    },
+    {  
+      "title":"Complementary medicine",
+      "megaTrends":[  
+        "Gesundheit"
+      ]
+    },
+    {  
+      "title":"Detoxing",
+      "megaTrends":[  
+        "Gesundheit"
+      ]
+    },
+    {  
+      "title":"Sportivity",
+      "megaTrends":[  
+        "Gesundheit"
+      ]
+    },
+    {  
+      "title":"Single-Society",
+      "megaTrends":[  
+        "Individualisierung"
+      ]
+    },
+    {  
+      "title":"Identity-Management",
+      "megaTrends":[  
+        "Individualisierung",
+        "Sicherheit",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Me-Cloud",
+      "megaTrends":[  
+        "Individualisierung",
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Small-World-Networks",
+      "megaTrends":[  
+        "Individualisierung"
+      ]
+    },
+    {  
+      "title":"Maker-Movement",
+      "megaTrends":[  
+        "Gesundheit",
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Diversity",
+      "megaTrends":[  
+        "Individualisierung",
+        "Gender Shift",
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Liquid Youth",
+      "megaTrends":[  
+        "Individualisierung",
+        "Silver Society"
+      ]
+    },
+    {  
+      "title":"Multi-graphy",
+      "megaTrends":[  
+        "Individualisierung"
+      ]
+    },
+    {  
+      "title":"Rainbow families",
+      "megaTrends":[  
+        "Individualisierung",
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"We-culture",
+      "megaTrends":[  
+        "Individualisierung"
+      ]
+    },
+    {  
+      "title":"Downaging",
+      "megaTrends":[  
+        "Silver Society"
+      ]
+    },
+    {  
+      "title":"Ageless consuming",
+      "megaTrends":[  
+        "Silver Society"
+      ]
+    },
+    {  
+      "title":"Forever Youngsters",
+      "megaTrends":[  
+        "Silver Society"
+      ]
+    },
+    {  
+      "title":"Silver potentials",
+      "megaTrends":[  
+        "Silver Society",
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Universal design",
+      "megaTrends":[  
+        "Silver Society"
+      ]
+    },
+    {  
+      "title":"Super-Safe-Society",
+      "megaTrends":[  
+        "Sicherheit"
+      ]
+    },
+    {  
+      "title":"Trust Technology",
+      "megaTrends":[  
+        "Sicherheit"
+      ]
+    },
+    {  
+      "title":"Transparenzmärkte",
+      "megaTrends":[  
+        "Sicherheit"
+      ]
+    },
+    {  
+      "title":"Digital Reputation",
+      "megaTrends":[  
+        "Sicherheit"
+      ]
+    },
+    {  
+      "title":"Simplexity",
+      "megaTrends":[  
+        "Sicherheit"
+      ]
+    },
+    {  
+      "title":"Sustainable society",
+      "megaTrends":[  
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Post-Carbon-Society",
+      "megaTrends":[  
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Organic-Boom",
+      "megaTrends":[  
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Do-gooder",
+      "megaTrends":[  
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Zero Waste",
+      "megaTrends":[  
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Green Tech",
+      "megaTrends":[  
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Circular Economy",
+      "megaTrends":[  
+        "Neu-Ökologie"
+      ]
+    },
+    {  
+      "title":"Service-Economy",
+      "megaTrends":[  
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Co-Working",
+      "megaTrends":[  
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Permanent Beta",
+      "megaTrends":[  
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Start-Up-Culture",
+      "megaTrends":[  
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Outsourcing-Society",
+      "megaTrends":[  
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Work-Design",
+      "megaTrends":[  
+        "New Work"
+      ]
+    },
+    {  
+      "title":"Phased-Families",
+      "megaTrends":[  
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"New mothers",
+      "megaTrends":[  
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"Protective mother",
+      "megaTrends":[  
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"Proll-Professionals",
+      "megaTrends":[  
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"Sec-Design",
+      "megaTrends":[  
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"Alpha Softies",
+      "megaTrends":[  
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"Superdaddys",
+      "megaTrends":[  
+        "Gender Shift"
+      ]
+    },
+    {  
+      "title":"Real Design",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Augmented Reality",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"E-Commerce",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Crowdfunding",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Fintech",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Smart devices",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Internet of Things",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    },
+    {  
+      "title":"Social Networks",
+      "megaTrends":[  
+        "Konnektivität"
+      ]
+    }
+  ]
+}
